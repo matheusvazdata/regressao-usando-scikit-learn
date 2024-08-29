@@ -1,0 +1,8 @@
+Coluna,Descrição
+age,Idade do beneficiário
+sex,"Sexo do beneficiário (male: masculino, female: feminino)"
+bmi,"Índice de Massa Corporal (BMI) do beneficiário, uma medida da gordura corporal com base na altura e no peso"
+children,Número de dependentes cobertos pelo plano de saúde
+smoker,"Indicador se o beneficiário é fumante (yes: sim, no: não)"
+region,"Região de residência do beneficiário (noroeste, sudoeste, sudeste, nordeste)"
+charges,Custo anual do seguro de saúde cobrado ao beneficiário
