@@ -8,7 +8,7 @@ A regressão é uma ferramenta poderosa na caixa de ferramentas de qualquer cien
 
 Neste projeto, vamos explorar dados relacionados a planos de saúde, um campo que depende fortemente de modelos preditivos para avaliar riscos e custos. A base de dados foi retirada do livro [Machine Learning with R](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r) de Brett Lantz, que está disponível [neste repositório](https://github.com/stedy/Machine-Learning-with-R-datasets).
 
-O objetivo é construir um modelo capaz de prever os custos associados a planos de saúde com base em diferentes características dos segurados. Este tipo de análise é valioso tanto para segurados, que podem entender melhor os fatores que influenciam seus custos, quanto para seguradoras, que buscam otimizar suas políticas de precificação.
+O objetivo é construir um modelo capaz de prever os custos associados a planos de saúde com base em diferentes características dos segurados. Este tipo de análise é valiosa tanto para segurados, que podem entender melhor os fatores que influenciam seus custos, quanto para seguradoras, que buscam otimizar suas políticas de precificação.
 
 ## 📂 Estrutura do Projeto
 
@@ -25,7 +25,7 @@ O objetivo é construir um modelo capaz de prever os custos associados a planos 
 
 1. Clone este repositório para sua máquina local.
 2. Instale as dependências com `pip install -r requirements.txt`.
-3. Abra e execute o notebook `notebook_main.ipynb` para ver o processo completo de modelagem.
+3. Abra e execute o notebook `Projeto_16_12_2024_Regressao_usando_Scikit_Learn.ipynb` para ver o processo completo de modelagem.
 
 ## 🎉 Conclusão
 
